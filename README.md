@@ -61,7 +61,7 @@ c![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ganesh-1192&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ganesh-1992&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-1992&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh-1992&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
